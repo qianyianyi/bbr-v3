@@ -32,7 +32,7 @@
 ### 快速开始
 ```bash
 # 下载并运行脚本
-curl -sL https://raw.githubusercontent.com/qianyianyi/bbr-v3/main/bbr.sh | bash
+bash -c "$(curl -sL https://raw.githubusercontent.com/qianyianyi/bbr-v3/master/bbr.sh)"
 
 # 或者克隆仓库后运行
 git clone https://github.com/qianyianyi/bbr-v3.git
