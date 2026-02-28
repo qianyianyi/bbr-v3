@@ -34,11 +34,10 @@
 # 下载并运行脚本
 bash -c "$(curl -sL https://raw.githubusercontent.com/qianyianyi/bbr-v3/master/bbr.sh)"
 
-# 或者克隆仓库后运行
-git clone https://github.com/qianyianyi/bbr-v3.git
-cd bbr-v3
+# 或手动下载后执行
+curl -sL -o bbr.sh https://raw.githubusercontent.com/qianyianyi/bbr-v3/master/bbr.sh
 chmod +x bbr.sh
-./bbr.sh
+bash bbr.sh
 ```
 
 ## 📋 功能菜单
