@@ -1,4 +1,4 @@
-# BBR v3 Manager
+# BBR v3
 
 一个功能强大的 BBR v3 内核管理和网络加速脚本，支持多种队列算法和自动安装功能。
 
@@ -32,13 +32,13 @@
 ### 快速开始
 ```bash
 # 下载并运行脚本
-curl -sL https://raw.githubusercontent.com/qianyianyi/bbr-v3-manager/main/bbr-manager.sh | bash
+curl -sL https://raw.githubusercontent.com/qianyianyi/bbr-v3/main/bbr.sh | bash
 
 # 或者克隆仓库后运行
-git clone https://github.com/qianyianyi/bbr-v3-manager.git
-cd bbr-v3-manager
-chmod +x bbr-manager.sh
-./bbr-manager.sh
+git clone https://github.com/qianyianyi/bbr-v3.git
+cd bbr-v3
+chmod +x bbr.sh
+./bbr.sh
 ```
 
 ## 📋 功能菜单
